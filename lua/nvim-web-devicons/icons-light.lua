@@ -2728,8 +2728,8 @@ local icons_by_file_extension = {
   },
   ["odin"] = {
     icon = "󰟢",
-    color = "#3882D2",
-    cterm_color = "33",
+    color = "#2a629e",
+    cterm_color = "25",
     name = "Odin",
   },
   ["odp"] = {
